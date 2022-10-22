@@ -15,8 +15,6 @@ import haxe.format.JsonParser;
 import openfl.utils.AssetType;
 import openfl.utils.Assets;
 import song.Conductor;
-import sys.FileSystem;
-import sys.io.File;
 
 using StringTools;
 

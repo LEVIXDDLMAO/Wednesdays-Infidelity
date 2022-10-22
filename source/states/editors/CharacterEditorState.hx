@@ -40,7 +40,6 @@ import states.editors.*;
 import states.game.PlayState;
 import states.menus.*;
 import states.menus.TitleState;
-import sys.FileSystem;
 import util.*;
 import util.FlxUIDropDownMenuCustom;
 

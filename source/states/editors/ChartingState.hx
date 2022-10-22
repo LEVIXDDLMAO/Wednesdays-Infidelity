@@ -63,8 +63,6 @@ import states.editors.*;
 import states.editors.MasterEditorMenu;
 import states.game.PlayState;
 import states.menus.TitleState;
-import sys.FileSystem;
-import sys.io.File;
 import util.CoolUtil;
 import util.FlxUIDropDownMenuCustom;
 import util.Prompt;

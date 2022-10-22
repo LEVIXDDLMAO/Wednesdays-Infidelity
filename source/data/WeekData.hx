@@ -5,9 +5,6 @@ import haxe.format.JsonParser;
 import lime.utils.Assets;
 import openfl.utils.Assets as OpenFlAssets;
 import states.game.PlayState;
-import sys.FileSystem;
-import sys.io.File;
-import sys.io.File;
 import util.CoolUtil;
 
 using StringTools;

@@ -16,7 +16,6 @@ import gameObjects.Alphabet;
 import gameObjects.Character;
 import states.editors.*;
 import states.menus.*;
-import sys.FileSystem;
 
 using StringTools;
 
