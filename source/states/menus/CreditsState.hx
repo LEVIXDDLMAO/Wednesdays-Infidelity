@@ -17,8 +17,6 @@ import gameObjects.Alphabet;
 import gameObjects.AttachedSprite;
 import lime.utils.Assets;
 import openfl.Lib;
-import sys.FileSystem;
-import sys.io.File;
 import util.CoolUtil;
 
 using StringTools;
